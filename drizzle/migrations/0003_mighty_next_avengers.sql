@@ -1,0 +1,1 @@
+ALTER TABLE `generated_posts` ADD `targeting_context` text;

@@ -1,0 +1,1 @@
+ALTER TABLE `generated_posts` ADD `layout_style` text DEFAULT 'bold-statement';
